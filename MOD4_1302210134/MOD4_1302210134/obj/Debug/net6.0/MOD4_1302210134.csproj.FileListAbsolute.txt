@@ -1,0 +1,5 @@
+C:\Users\Chandra\source\repos\MOD4_1302210134\MOD4_1302210134\obj\Debug\net6.0\MOD4_1302210134.csproj.AssemblyReference.cache
+C:\Users\Chandra\source\repos\MOD4_1302210134\MOD4_1302210134\obj\Debug\net6.0\MOD4_1302210134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra\source\repos\MOD4_1302210134\MOD4_1302210134\obj\Debug\net6.0\MOD4_1302210134.AssemblyInfoInputs.cache
+C:\Users\Chandra\source\repos\MOD4_1302210134\MOD4_1302210134\obj\Debug\net6.0\MOD4_1302210134.AssemblyInfo.cs
+C:\Users\Chandra\source\repos\MOD4_1302210134\MOD4_1302210134\obj\Debug\net6.0\MOD4_1302210134.csproj.CoreCompileInputs.cache
